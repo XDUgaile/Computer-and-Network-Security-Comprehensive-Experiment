@@ -1,2 +1,3 @@
-# XDU_B_Test
-XDU B测 2024 QAM调制解调的仿真实现
+#  Computer-and-Network-Security-Comprehensive-Experiment
+
+XDU 网信院 2024 计算机与网络安全综合实验
